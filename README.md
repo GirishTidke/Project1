@@ -1,2 +1,2 @@
 # Project1
-This s my git repository
+This s my git repository.
